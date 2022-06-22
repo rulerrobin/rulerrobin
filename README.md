@@ -1,8 +1,18 @@
 ### Hi there 👋
 
+My name is Genuel Zapanta and I am a communicator with experience in design and media. I am making a career transition at the moment and am working towards becoming a SWE. I like gaming, anime and vlogging.
+
 I am making this as a tracker/portfolio in my career transition into SWE and beyond. I will hopefully be filling and updating this every now and then with updates on what I have done and general thoughts.
 
-In highschool and and part of university I really liked to build and program however in University I had a bad experience and walked away from it. I'm currently looking to get back into the space by being self taught with a bootcamp to boost my learning and give direction. 
+🌱[Tracker here](https://github.com/rulerrobin/SelfEduTracker/blob/main/README.md)
+
+
+📫 How to reach me: 
+
+[LinkedIn](https://www.linkedin.com/in/genuel-mark-zapanta-6a3411140/)
+
+[Twitter](https://twitter.com/GenuelMark)
+
 <!--
 **rulerrobin/rulerrobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
