@@ -24,10 +24,13 @@ Planning out coursework and basic foundations.
 
 June 23 - Added
 
-🥅 **Goal:** Get a software engineering job in 1 year. (Starting March 2023)
+🥅 **Goal:** Get a software engineering job in 1 year. 
 
-👨‍💻 **Status:** Studying at Coder Academy Since March 2023
+👨‍💻 **Status:** Planning courses and self curriculum
 
+**<details><summary>March 2023</summary>**
+<p>
+  💻 **Status:** Started Coder Academy Accelarated Web Development Course
   
 <!--
 **rulerrobin/rulerrobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
