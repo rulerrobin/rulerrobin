@@ -24,9 +24,9 @@ Planning out coursework and basic foundations.
 
 June 23 - Added
 
-🥅 **Goal:** Get a software engineering job in 1 year.
+🥅 **Goal:** Get a software engineering job in 1 year. (Starting March 2023)
 
-👨‍💻 **Status:** Planning studying and project making to start in July
+👨‍💻 **Status:** Studying at Coder Academy Since March 2023
 
   
 <!--
