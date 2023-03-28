@@ -8,7 +8,7 @@ I am making this as a tracker/portfolio in my career transition into SWE and bey
 
 🥅 **Goal:** Get a software engineering job in 1 year.
 
-👨‍💻 **Status:** Planning studying and project making to start in July
+💻 **Status:** Started Coder Academy Accelarated Web Development Course
 
 📫 **How to reach me** 
 
@@ -18,7 +18,7 @@ I am making this as a tracker/portfolio in my career transition into SWE and bey
 
 # Updates
 
-**<details><summary>June 2022</summary>**
+**<details><summary>2022</summary>**
 <p>
 Planning out coursework and basic foundations. 
 
@@ -28,9 +28,14 @@ June 23 - Added
 
 👨‍💻 **Status:** Planning courses and self curriculum
 
-**<details><summary>March 2023</summary>**
 <p>
-  💻 **Status:** Started Coder Academy Accelarated Web Development Course
+  
+**<details><summary>2022</summary>**
+<p>
+
+March 28 - Updated 
+
+Changed status from to 👨‍💻 **Status:** Planning courses and self curriculum --> 💻 **Status:** Started Coder Academy Accelarated Web Development Course
   
 <!--
 **rulerrobin/rulerrobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
