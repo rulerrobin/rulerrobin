@@ -27,7 +27,8 @@ June 23 - Added
 👨‍💻 **Status:** Planning courses and self curriculum
 
 <p>
-  
+</details>
+
 **<details><summary>2023</summary>**
 <p>
 
