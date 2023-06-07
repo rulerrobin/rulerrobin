@@ -14,8 +14,6 @@ I am making this as a tracker/portfolio in my career transition into SWE and bey
 
 [LinkedIn](https://www.linkedin.com/in/genuel-mark-zapanta-6a3411140/)
 
-[Twitter](https://twitter.com/GenuelMark)
-
 # Updates
 
 **<details><summary>2022</summary>**
@@ -35,7 +33,7 @@ June 23 - Added
 
 March 28 - Updated 
 
-Changed status from to 👨‍💻 **Status:** Planning courses and self curriculum --> 💻 **Status:** Started Coder Academy Accelarated Web Development Course
+Changed status from to 👨‍💻 **Status:** Planning courses and self curriculum --> 💻 **Status:** Started Coder Academy Accelarated Web Development Course and added Coder-Academy Repo which holds the notes and some projects that were completed in class.
   
 <!--
 **rulerrobin/rulerrobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
